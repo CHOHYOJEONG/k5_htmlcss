@@ -7,11 +7,10 @@
    <div>, <h1>~<h2>, <ul>, <li>. <p>
   ```
 + 인라인요소 :
-
- ```
-  <span>, , <a>
 ```
-## 시맨틱태그
+  <span>, , <a>, <img>
 ```
+## 시맨틱 태그
 ```
-#CSS
+<main>, <header>, <footer>, <nav>, <section>, 
+```
