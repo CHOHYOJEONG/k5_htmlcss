@@ -10,5 +10,5 @@
    ```
   <span>, , <a>, <img>
 ```
-## 시맨틱 태그
+## 시맨틱태그
 <main>, <header>, <footer>, <nav>, <section>, 
