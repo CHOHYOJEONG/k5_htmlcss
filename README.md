@@ -12,5 +12,5 @@
    ```
 ## 시맨틱태그
 ```
-<main>, <header>, <footer>, <nav>, <section>, 
+<main>, <header>, <footer>, <nav>, <section>, <article>
 ```
